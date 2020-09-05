@@ -8,7 +8,7 @@
   - visit it on your web browser
 
 ## Deployment
-  Take a look at the live version [**Click here**]()  
+  Take a look at the live version [**Click here**](https://olumide025.github.io/Survey-Form/)  
 
 
 ## Built With

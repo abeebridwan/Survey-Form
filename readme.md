@@ -23,7 +23,7 @@
   - view on any device
   - Responsive
 
-# Authors
+# Author
   Abeeb Ridwan Olumide
 
 ## License
